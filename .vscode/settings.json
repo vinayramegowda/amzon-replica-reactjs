@@ -1,0 +1,11 @@
+{
+    "prettier.useTabs": true,
+    "prettier.withNodeModules": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "emmet.triggerExpansionOnTab": true,
+    "extends": [
+        "plugin:prettier/recommended",
+        "prettier/flowtype",
+        "prettier/react",
+        "prettier/standard"]
+}
